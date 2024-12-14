@@ -1,0 +1,7 @@
+<header>
+    <div class="container">
+        <img src="logo.png" alt="JOF Security Services Logo" class="logo">
+        <h1>JOF Security Services</h1>
+        <!-- Navigation remains the same -->
+    </div>
+</header>

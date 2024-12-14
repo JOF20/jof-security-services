@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+    }
+
+    .service-list {
+        flex-direction: column;
+    }
+
+    header ul {
+        flex-direction: column;
+        text-align: center;
+    }
+}
